@@ -1,0 +1,16 @@
+a {
+    background-color: rgb(43, 144, 226);
+    transition: background-color .5s;
+}
+a:hover {
+    background-color: rgb(202, 248, 156);
+}
+a:link{
+    color: rgb(255, 106, 7);
+}
+a:visited{
+    color: rgb(17, 17, 83);
+}
+a:active{
+    color: rgb(48, 243, 9);
+}
